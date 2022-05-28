@@ -1,7 +1,7 @@
-[![Anuj Sharma ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Anuj%20Sharma%20)](https://www.linkedin.com/in/anujsharma20//)
+[![Pratik, Full Stack Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Developer&title=Pratik)](https://pimp-my-readme.webapp.io)
 
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
-<h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Anuj Sharma </h1>
+<h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Pratik Mendhey </h1>
 <p>A Full-Stack Web Developer with a specialization in MERN stack. I'm passionate and capable of applying programming skills </br> to build exciting and creative project.</p>
 
 
@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at [(https://github.com/Anujsharma51)]
+- 👨‍💻 All of my projects are available at [(https://github.com/Mendheys)]
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.**
 
-- 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/anujsharma20//">LinkedIn</a> **
+- 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/pratik-mendhey-a0948719a/">LinkedIn</a> **
 
 <hr />
 
@@ -116,7 +116,7 @@
 <hr>
 <h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/anujsharma20/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/pratik-mendhey-a0948719a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </p>
 <hr />
 
