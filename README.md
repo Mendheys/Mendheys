@@ -11,6 +11,8 @@
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Mendheys)]
 
+-  Portfolio [https://remarkable-tanuki-650e0d.netlify.app/]
+
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.**
 
 - 📫 How to reach me LinkedIn ** <a color = "red" href="https://www.linkedin.com/in/pratik-mendhey-a0948719a/">LinkedIn</a> **
