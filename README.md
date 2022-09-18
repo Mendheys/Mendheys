@@ -1,4 +1,4 @@
-[![Pratik, Full Stack Developer](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=Full%20Stack%20Developer&title=Pratik)]
+[![Pratik, Full Stack Developer]
 
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h3 align="center"> <h1> Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" width="30px">, I'm Pratik Mendhey </h1>
