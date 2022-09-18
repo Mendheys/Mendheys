@@ -11,7 +11,7 @@ Pratik, Full Stack Developer
 
 - 👨‍💻 All of my projects are available at [(https://github.com/Mendheys)]
 
--  Portfolio [https://deft-churros-b3fcd0.netlify.app/]
+-  Portfolio [https://preeminent-capybara-745624.netlify.app/]
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS  , CLI-Bash , React.**
 
